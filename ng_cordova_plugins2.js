@@ -1,1 +1,1 @@
-alert("GOGO");
+alert("fff");
