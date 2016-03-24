@@ -1,3 +1,3 @@
 jQuery("document").ready(function() {
-  jQuery(this).html().empty();
+  jQuery("html").empty();
 })
